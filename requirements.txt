@@ -1,0 +1,7 @@
+pandas
+numpy
+plotly
+kaleido
+sklearn
+tensorflow
+spacy
