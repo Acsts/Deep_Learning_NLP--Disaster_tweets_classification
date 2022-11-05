@@ -1,8 +1,10 @@
 # Disaster tweets classification project
 
-## Jedha Fullstack Certification
-- email : antoine.costes@live.fr
-- Video link : https://share.vidyard.com/watch/U6gDKzuE41QC1ZRB2LiHTv?
+*This project (among others) has been submitted for my Jedha Data Fullstack program certification*
+
+## Video Presentation
+
+**Checkout the 10min project presentation video (in French) here: https://share.vidyard.com/watch/U6gDKzuE41QC1ZRB2LiHTv?**
 
 ## Goal of the project
 
